@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="632bf929-6c6f-4367-906b-37aae434ca44" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/../CSC245Lab3/Lab3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CSC245Lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks_v1/02.00-Introduction-to-NumPy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks_v1/02.00-Introduction-to-NumPy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks_v1/02.02-The-Basics-Of-NumPy-Arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks_v1/02.02-The-Basics-Of-NumPy-Arrays.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks_v1/02.03-Computation-on-arrays-ufuncs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks_v1/02.03-Computation-on-arrays-ufuncs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks_v1/03.00-Introduction-to-Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks_v1/03.00-Introduction-to-Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks_v1/03.01-Introducing-Pandas-Objects.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks_v1/03.01-Introducing-Pandas-Objects.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks_v1/05.02-Introducing-Scikit-Learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks_v1/05.02-Introducing-Scikit-Learn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks_v1/05.06-Linear-Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks_v1/05.06-Linear-Regression.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2fVz3SFOxccwWb6hCJW7vRtyg3j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/PythonDataScienceHandbook/CSC245Lab5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="632bf929-6c6f-4367-906b-37aae434ca44" name="Changes" comment="" />
+      <created>1713900833801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713900833801</updated>
+      <workItem from="1713900834901" duration="57000" />
+      <workItem from="1713900904508" duration="105000" />
+      <workItem from="1713901063184" duration="5984000" />
+      <workItem from="1714072779406" duration="425000" />
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1714072987495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714072987495</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+</project>
